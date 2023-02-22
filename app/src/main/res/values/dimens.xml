@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_margin">10dp</dimen>
+    <dimen name="normal_logo">180dp</dimen>
+    <dimen name="small_logo">100dp</dimen>
+    <dimen name="big_logo">250dp</dimen>
+</resources>
